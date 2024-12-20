@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PutoPauxD
+- 👋 Hi, I’m @PPauxD
 - 👀 I’m interested in Java, C# and Mechanical Keyboards
 - 🌱 I’m currently learning Java, JS, C#, etc...
 - 💞️ I’m looking to collaborate on literally nothing lmao
